@@ -13,4 +13,4 @@ st.header("hora de aventura")
 st.subheader("uipiiiiii")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Agora eu percebi o método de hora de aventura, DS")
+st.write("Agora eu percebi o método de hora de aventura- DS")
